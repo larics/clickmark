@@ -7,3 +7,6 @@
 [submodule "optidraw"]
 	path = optidraw
 	url = git@github.com:larics/optidraw.git
+[submodule "ros_calipen"]
+	path = ros_calipen
+	url = git@github.com:larics/ros_calipen.git
