@@ -1,0 +1,9 @@
+[submodule "docker_files"]
+	path = docker_files
+	url = git@github.com:larics/docker_files.git
+[submodule "for_franka_ros"]
+	path = for_franka_ros
+	url = git@github.com:larics/for_franka_ros.git
+[submodule "optidraw"]
+	path = optidraw
+	url = git@github.com:larics/optidraw.git
