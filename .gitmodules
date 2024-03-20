@@ -10,3 +10,6 @@
 [submodule "ros_calipen"]
 	path = ros_calipen
 	url = git@github.com:larics/ros_calipen.git
+[submodule "cloud_match_ros"]
+	path = cloud_match_ros
+	url = git@github.com:Stigla1/cloud_match_ros.git
