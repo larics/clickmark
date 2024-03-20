@@ -39,8 +39,10 @@ After image is sucessfuly built, you can run it with:
 
 ## TODO: 
 - [ ] [arm control] Develop arm control for following straight paths
-- [ ] [kalipen] Test kalipen functionality 
-- [ ] [perception] Scan matching algorithm to setup STL 
+- [x] [kalipen] Test kalipen functionality 
+- [x] [perception] Scan matching algorithm to setup STL 
+- [x] [perception] Draw obstacles
+- [ ] [perception] Test scan matching
 - [ ] [docs] Add docs for using the system 
 - [ ] [docs] How to run optitrack 
 - [ ] [docs] How to run kalipen 
